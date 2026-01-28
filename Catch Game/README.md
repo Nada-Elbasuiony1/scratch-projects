@@ -31,3 +31,6 @@ Kids aged 6–12 and Scratch beginners learning game logic.
 
 ---
 🛠️ Created using Scratch (MIT)
+
+## 🖼 Screenshot
+![Catch Game](screenshot.png)
