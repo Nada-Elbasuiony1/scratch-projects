@@ -24,7 +24,7 @@ The player controls a basket and tries to catch as many falling apples as possib
 - When time ends, the game stops
 
 ## 🔗 Play the Game
-👉 https://scratch.mit.edu/projects/1271714423
+👉 https://scratch.mit.edu/projects/1272780281
 
 ## 👧👦 Suitable For
 Kids aged 6–12 and Scratch beginners learning game logic.
